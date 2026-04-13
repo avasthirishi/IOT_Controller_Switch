@@ -973,7 +973,7 @@ void loop() {
   yield();
 }
 
-/*********************************************************************
+/************************************
   END OF FIRMWARE
   
   TROUBLESHOOTING TIPS:
@@ -1012,4 +1012,4 @@ void loop() {
   For technical support, contact NIELIT Ropar
   Documentation: Include serial monitor output for debugging
   
-*********************************************************************/
+***************************************************************/
