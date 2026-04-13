@@ -104,7 +104,7 @@ NIELIT Smart Lab is a comprehensive IoT system built on ESP8266, designed for ed
 └─────────────┴──────────┴──────────┴────────────────────┘
 ```
 
-### Wiring Diagram
+## Wiring Diagram
 
 ```
                     ┌──────────────────────┐
@@ -242,7 +242,7 @@ Click **Verify (✓)**. If it compiles without errors, you're ready!
    Global variables use 31,416 bytes (38%) of dynamic memory.
    ```
 
-### Step 4: Upload Firmware
+## Step 4: Upload Firmware
 
 1. **Ensure ESP8266 is connected** via USB
 2. Click **Upload (→)** button
@@ -257,7 +257,7 @@ Click **Verify (✓)**. If it compiles without errors, you're ready!
    ```
 4. **Success message:** `Done uploading.`
 
-### Step 5: Verify Upload
+## Step 5: Verify Upload
 
 **⚠️ IMPORTANT:** Serial Monitor is **DISABLED** in this firmware due to use of RX/TX pins for physical buttons!
 
@@ -279,7 +279,7 @@ Click **Verify (✓)**. If it compiles without errors, you're ready!
 
 ## 🚀 First-Time Setup
 
-### WiFi Configuration Process
+## WiFi Configuration Process
 
 When powered on for the first time, the device enters **Access Point (AP) Mode**:
 
